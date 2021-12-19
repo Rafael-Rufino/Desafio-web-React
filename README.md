@@ -1,46 +1,94 @@
-# Getting Started with Create React App
+<h3 align="center">
+    <img alt="Logo" title="#logo" width="300px" src="./.github/logo-sdie.svg">
+    <br><br>
+    <b>Plataforma Desenvolvida para auxiliar professores e alunos da rede pública!</b>  
+    <br>
+</h3>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+# Índice
 
-### `yarn start`
+- [Sobre](#sobre)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Como Usar](#como-usar)
+- [Como Contribuir](#como-contribuir)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## :bookmark: Sobre
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+O <strong>SDIE</strong> é uma aplicação Web voltado para promover o ensino a distância em Escolas públicas.  
 
-### `yarn test`
+Essa aplicação foi construída para integrar professores e alunos da rede pública, permitindo o estudo extraclasse de forma remota o <strong>Sistema de Intergração Escolar</strong> é um plataforma que auxilia no compartilhamento de conteúdo de forma integrada, e que facilite essa conexão extraclasse.  
+<br/>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+A ideia de criar uma aplicação voltada para escolas da rede pública, surgiu da necessidade de promover o ensino de forma a distancia devido a <strong>Crise mundial do coronavírus</strong> que afetou todo o sistema de ensino público.
 
-### `yarn build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<a id="tecnologias-utilizadas"></a>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## :rocket: Tecnologias Utilizadas
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+O projeto foi desenvolvido utilizando as seguintes tecnologias
 
-### `yarn eject`
+- [React](https://developer.mozilla.org/pt-BR/docs/Aprender/HTML/Introducao_ao_HTML)
+- [Typecript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [Sass](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## :heavy_check_mark: :computer: Prototipo da Aplicação
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- O layout está disponível no **[Figma](https://www.figma.com/file/XN5gMbp4UIsWUbN88R24JM/SDIE-(SISTEMA-DE-INTEGRA%C3%87%C3%83O-ESCOLAR)?node-id=186883%3A449)**;
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+- Link para acessar aplicação: **[Acessa](https://sdie.vercel.app/)**;
+## :heavy_check_mark: :computer: Resultado Web
 
-## Learn More
+<h1 align="center">
+    <img alt="Web Home" src="./.github/dashboard.png" width="900px">
+    
+</h1>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<a id="como-usar"></a>
+
+## :fire: Como usar
+O projeto foi desenvolvido utilizando as seguintes tecnologias
+
+1. Faça um clone :
+
+```sh
+  $ git clone https://github.com/Rafael-Rufino/Desafio-web-React.git
+```
+
+2. Executando a Aplicação:
+
+```sh
+  # Instale as dependências
+  $ npm install 
+  ou 
+  $ Yarn
+
+  # Inicie a aplicação web
+  $ cd PROJETO_SDIE/src
+  $ npm start
+```
+
+<a id="como-contribuir"></a>
+
+
+# :recycle: Como contribuir
+
+- Faça um Fork desse repositório,
+- Crie uma branch com a sua feature: `git checkout -b my-feature`
+- Commit suas mudanças: `git commit -m 'feat: My new feature'`
+- Push a sua branch: `git push origin my-feature`
+
+
+## :memo: License
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+
+---
+
+<h4 align="center">
+    Feito com 💜 by <a href="https://www.linkedin.com/in/rafael-r-dos-santos-b889311ba/" target="_blank">Rafael Rufino</a>
+</h4>
